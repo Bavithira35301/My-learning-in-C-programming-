@@ -5,5 +5,5 @@ int main() {
     scanf("%d %d", &num1, &num2);
     Difference = num1 - num2;
     printf("The difference of %d and %d is : %d\n", num1, num2, Difference);
-    return 0;
+    return 0; 
 }
