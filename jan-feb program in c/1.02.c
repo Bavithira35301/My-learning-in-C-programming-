@@ -4,6 +4,6 @@ int main() {
     printf("Enter two integers: ");
     scanf("%d %d", &num1, &num2);
     addition = num1+num2;
-    printf("The additon of %d and %d is %d", num1,num2,addition);
+    printf("The addition of %d and %d is : %d\n", num1,num2,addition);
     return 0;
 }
