@@ -8,4 +8,4 @@ int main() {
         printf("The division of %d by %d is : %d", num1, num2, Division);
         return 0;
     }
-}
+} 
